@@ -14,7 +14,8 @@ body{
 #header{
   width: 100%;
   height: 100vh;
-  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/24701-nature-natural-beauty.jpg/1280px-24701-nature-natural-beauty.jpg) no-repeat;
+  background: url(Portfolio-website
+/annapurna-g9efd050f8_1280.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment:fixed;
@@ -346,7 +347,8 @@ nav .fa-solid{
 }
 @media only screen and (max-width:600px){
     #header{
-        background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/24701-nature-natural-beauty.jpg/1280px-24701-nature-natural-beauty.jpg);
+        background-image:url(Portfolio-website
+/annapurna-g9efd050f8_1280.jpg);
 
     }
     .header-text{
